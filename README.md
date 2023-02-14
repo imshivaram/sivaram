@@ -18,5 +18,4 @@
 </h1>
 </div>
 
-##My stats:
-https://github-readme-streak-stats.herokuapp.com/?user=imshivaram
+
